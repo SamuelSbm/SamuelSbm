@@ -14,4 +14,4 @@ Me chamo Samuel da Silva, tenho 25 anos e sou natural do Rio Grande do Norte. At
 
 ## 📊 Estatísticas
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=thiago-sbs&show_icons=true&theme=tokyonight&locale=pt-br">&ensp;<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-sbs&layout=compact&theme=tokyonight&custom_title=Tecnologias">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=SamuelSbm&show_icons=true&theme=tokyonight&locale=pt-br">&ensp;<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSbm&layout=compact&theme=tokyonight&custom_title=Tecnologias">
