@@ -1,4 +1,4 @@
-## Samuel
+## 👨‍💻 Samuel da Silva
 
 Me chamo Samuel da Silva, tenho 25 anos e sou natural do Rio Grande do Norte. Atualmente cursando Analise e Desenvolvimento de Sistemas. 
 
